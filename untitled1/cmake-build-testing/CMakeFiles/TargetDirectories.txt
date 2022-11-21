@@ -1,0 +1,3 @@
+C:/Users/lesha/CLionProjects/untitled1/cmake-build-testing/CMakeFiles/untitled1.dir
+C:/Users/lesha/CLionProjects/untitled1/cmake-build-testing/CMakeFiles/edit_cache.dir
+C:/Users/lesha/CLionProjects/untitled1/cmake-build-testing/CMakeFiles/rebuild_cache.dir
