@@ -1,4 +1,0 @@
-"A:\CLion\CLion 2022.2.4\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Release "-DCMAKE_MAKE_PROGRAM=A:/CLion/CLion 2022.2.4/bin/ninja/win/ninja.exe" -G Ninja -S C:\Users\lesha\CLionProjects\untitled1 -B C:\Users\lesha\CLionProjects\untitled1\cmake-build-release
--- Configuring done
--- Generating done
--- Build files have been written to: C:/Users/lesha/CLionProjects/untitled1/cmake-build-release

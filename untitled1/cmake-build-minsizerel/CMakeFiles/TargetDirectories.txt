@@ -1,3 +1,0 @@
-C:/Users/lesha/CLionProjects/untitled1/cmake-build-minsizerel/CMakeFiles/untitled1.dir
-C:/Users/lesha/CLionProjects/untitled1/cmake-build-minsizerel/CMakeFiles/edit_cache.dir
-C:/Users/lesha/CLionProjects/untitled1/cmake-build-minsizerel/CMakeFiles/rebuild_cache.dir
